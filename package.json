@@ -1,0 +1,22 @@
+{
+  "name": "signed-letters",
+  "version": "1.0.0",
+  "description": "Hebrew Sign Language Quiz",
+  "main": "script.js",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "http-server"
+  },
+  "keywords": [
+    "sign-language",
+    "hebrew",
+    "quiz"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "html-minifier": "^4.0.0",
+    "cssnano": "^5.1.15",
+    "terser": "^5.16.1"
+  }
+}

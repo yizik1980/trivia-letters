@@ -3,70 +3,70 @@
 // ═══════════════════════════════════════════════════════════════════
 
 // ── א Alef ── from signes.jpg cropped image
-const ALEF = `<img src="../letters/alef.png" alt="א" />`;
+const ALEF = `<img src="./letters/alef.png" alt="א" />`;
 
 // ── ב Bet ── from signes.jpg cropped image
-const BET = `<img src="../letters/bet.png" alt="ב" />`;
+const BET = `<img src="./letters/bet.png" alt="ב" />`;
 
 // ── ג Gimel ── from signes.jpg cropped image
-const GIMEL = `<img src="../letters/gimel.png" alt="ג" />`;
+const GIMEL = `<img src="./letters/gimel.png" alt="ג" />`;
 
 // ── ד Dalet ── from signes.jpg cropped image
-const DALET = `<img src="../letters/dalet.png" alt="ד" />`;
+const DALET = `<img src="./letters/dalet.png" alt="ד" />`;
 
 // ── ה He ── from signes.jpg cropped image
-const HE = `<img src="../letters/he.png" alt="ה" />`;
+const HE = `<img src="./letters/he.png" alt="ה" />`;
 
 // ── ו Vav ── from signes.jpg cropped image
-const VAV = `<img src="../letters/vav.png" alt="ו" />`;
+const VAV = `<img src="./letters/vav.png" alt="ו" />`;
 
 // ── ז Zayin ── from signes.jpg cropped image
-const ZAYIN = `<img src="../letters/zain.png" alt="ז" />`;
+const ZAYIN = `<img src="./letters/zain.png" alt="ז" />`;
 
 // ── ח Chet ── from signes.jpg cropped image
-const CHET = `<img src="../letters/chet.png" alt="ח" />`;
+const CHET = `<img src="./letters/chet.png" alt="ח" />`;
 
 // ── ט Tet ── from signes.jpg cropped image
-const TET = `<img src="../letters/tet.png" alt="ט" />`;
+const TET = `<img src="./letters/tet.png" alt="ט" />`;
 
 // ── י Yod ── from signes.jpg cropped image
-const YOD = `<img src="../letters/yod.png" alt="י" />`;
+const YOD = `<img src="./letters/yod.png" alt="י" />`;
 
 // ── כ Kaf ── from signes.jpg cropped image
-const KAF = `<img src="../letters/kaf.png" alt="כ" />`;
+const KAF = `<img src="./letters/kaf.png" alt="כ" />`;
 
 // ── ל Lamed ── from signes.jpg cropped image
-const LAMED = `<img src="../letters/lamed.png" alt="ל" />`;
+const LAMED = `<img src="./letters/lamed.png" alt="ל" />`;
 
 // ── מ Mem ── from signes.jpg cropped image
-const MEM = `<img src="../letters/meim.png" alt="מ" />`;
+const MEM = `<img src="./letters/meim.png" alt="מ" />`;
 
 // ── נ Nun ── from signes.jpg cropped image
-const NUN = `<img src="../letters/nun.png" alt="נ" />`;
+const NUN = `<img src="./letters/nun.png" alt="נ" />`;
 
 // ── ס Samech ── from signes.jpg cropped image
-const SAMECH = `<img src="../letters/samech.png" alt="ס" />`;
+const SAMECH = `<img src="./letters/samech.png" alt="ס" />`;
 
 // ── ע Ayin ── from signes.jpg cropped image
-const AYIN = `<img src="../letters/hain.png" alt="ע" />`;
+const AYIN = `<img src="./letters/hain.png" alt="ע" />`;
 
 // ── פ Pe (motionless) ── from signes.jpg cropped image
-const PE = `<img src="../letters/pai.png" alt="פ" />`;
+const PE = `<img src="./letters/pai.png" alt="פ" />`;
 
 // ── צ Tsadi ── from signes.jpg cropped image
-const TSADI = `<img src="../letters/zadik.png" alt="צ" />`;
+const TSADI = `<img src="./letters/zadik.png" alt="צ" />`;
 
 // ── ק Qof ── from signes.jpg cropped image
-const QOF = `<img src="../letters/koff.png" alt="ק" />`;
+const QOF = `<img src="./letters/koff.png" alt="ק" />`;
 
 // ── ר Resh ── from signes.jpg cropped image
-const RESH = `<img src="../letters/riesh.png" alt="ר" />`;
+const RESH = `<img src="./letters/riesh.png" alt="ר" />`;
 
 // ── ש Shin ── from signes.jpg cropped image
-const SHIN1 = `<img src="../letters/shin.png" alt="ש" />`;
+const SHIN1 = `<img src="./letters/shin.png" alt="ש" />`;
 
 // ── ת Tav ── from signes.jpg cropped image
-const TAV = `<img src="../letters/taff.png" alt="ת" />`;
+const TAV = `<img src="./letters/taff.png" alt="ת" />`;
 
 // ════════════════════════════════════════
 // Sign map – using SHIN1 as the canonical ש
